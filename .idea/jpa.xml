@@ -4,4 +4,9 @@
     <option name="newEntityIdType" value="Long" />
     <option name="newEntitySequenceItemName" value="&lt;Provided by ORM&gt;" />
   </component>
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit moduleName="ParkingLot.main" name="default" framework="JPA" ormUnit="ParkingLot.main:default" defaultDataSourceId="69dd2289-0db2-4d99-85d6-dc88b523c7fe" />
+    </persistence-units>
+  </component>
 </project>
