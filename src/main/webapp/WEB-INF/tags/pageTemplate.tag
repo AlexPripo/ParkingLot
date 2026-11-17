@@ -16,5 +16,6 @@
                 <p style="display:flex; justify-content:center">© 2026 Priporeanu Alexandru-Sebastian</p>
             </footer>
         </main>
+        <script src="${pageContext.request.contextPath}/scripts/form-validation.js"></script>
     </body>
 </html>
